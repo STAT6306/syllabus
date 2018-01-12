@@ -8,7 +8,9 @@ consternation in students and hence deserves comment.
 The rapid obsolescence
 of specific computational tools suggests
 that today, the academic community can best focus on teaching
-broad principles—"science" rather than "engineering" (Donoho 2017).  
+broad principles—"science" rather than "engineering" (Donoho 2017).  An 
+example of this phenomenon would be the shift from Hadoop to Spark.  
+
 
 It is my
 opinion that this will provide more lasting benefit to a student.  However,
