@@ -19,7 +19,7 @@ substantial experience with
  This type of experience will need to be gained in another context.
 
 
-#Course Particulars
+##Course Particulars
 The course syllabus will be updated periodically throughout the semester.
 In particular, we will set office hours and exam dates.
 
