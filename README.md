@@ -20,6 +20,7 @@ substantial experience with
 
 
 ##Course Particulars
+
 The course syllabus will be updated periodically throughout the semester.
 In particular, we will set office hours and exam dates.
 
