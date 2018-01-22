@@ -23,4 +23,4 @@ substantial experience with
 The course syllabus will be updated periodically throughout the semester.
 In particular, we will set office hours and exam dates.
 
-Office hours: TBD
+Office hours: Tues. 2 - 3pm, Thurs. 11 - 12pm 
